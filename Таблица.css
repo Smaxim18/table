@@ -1,0 +1,15 @@
+.phone {
+    font-size: 18px;
+    background-color: #626694;
+    color: #fff;
+    border-collapse: collapse;
+}
+.phone td {
+    padding: 10px;
+    border: 1px solid #fff;
+}
+.phone td[colspan="2"] {
+    font-weight: bold;
+    text-align: center;
+    background-color: #3d9fc5;
+}
